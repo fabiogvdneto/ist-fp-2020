@@ -1,26 +1,13 @@
-# Buggy Data Base (BDB)
+# Fundamentos de Programação
 
-Neste primeiro projeto de Fundamentos da Programação os alunos
-irão desenvolver as funções que permitam resolver cinco tarefas
-independentes para identificar e corrigir os problemas de uma
-base de dados (Buggy Data Base, BDB) que ficou corrompida por
-causas desconhecidas. A BDB contem a informação de autenticação
-dos utilizadores de um sistema e está a recusar erradamente o
-acesso de alguns dos utilizadores registados. As tarefas
-consistirão em: 1) Correção da documentação; 2) Descoberta do
-PIN da base de dados; 3) Verificação da coerência dos dados; 4)
-Desencriptação do conteúdo; e 5) Depuração de senhas.
+Esta cadeira tem o objetivo de fornecer os conhecimentos necessários
+sobre conceitos fundamentais relativos à atividade de programção,
+nomeadamente algoritmos, abstração procedimental, abstração de dados,
+a programação como construção de abstrações e paradigmas de
+programação.
 
-### Resultado
+Este repositório foi criado com o intuito de albergar os dois projetos
+realizados no âmbito desta cadeira. Os mesmos podem ser consultados
+nas respetivas branches: [projeto 1](https://github.com/fabiogvdneto/ist-fp-2020/tree/1st-project) | [projeto 2](https://github.com/fabiogvdneto/ist-fp-2020/tree/2nd-project).
 
-Nota Final: 19.05
-
-Qualidade do Código:
-- 1.30/1.50 Boas Práticas
-- 0.60/1.00 Comentários
-- 0.70/1.00 Abstrações
-- 0.45/0.50 Nomes
-
-Testes Manuais: 3.05/4.00
-
-Testes Automáticos: 16.00/16.00
+Mais informação sobre a cadeira pode ser encontrada no [fenix](https://fenix.tecnico.ulisboa.pt/disciplinas/FProg3/2021-2022/1-semestre/pagina-inicial).
