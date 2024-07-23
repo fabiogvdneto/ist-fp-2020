@@ -5,7 +5,7 @@ Autor: Fábio Neto (ist1104126)
 Contacto: fabioneto03@hotmail.com
 
 Descrição: Neste primeiro projeto de Fundamentos da Programação os alunos irão desenvolver
-as funçõs que permitam resolver cinco tarefas independentes para identificar e corrigir
+as funções que permitam resolver cinco tarefas independentes para identificar e corrigir
 os problemas de uma base de dados (Buggy Data Base, BDB) que ficou corrompida por
 causas desconhecidas. A BDB contem a informação de autenticação dos utilizadores de
 um sistema e está a recusar erradamente o acesso de alguns dos utilizadores registados.
